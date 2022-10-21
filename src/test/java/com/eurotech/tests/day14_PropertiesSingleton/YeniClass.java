@@ -1,5 +1,5 @@
 package com.eurotech.tests.day14_PropertiesSingleton;
 
-public class YeniTest {
-    String a="";
+public class YeniClass {
+    //nmn,mnn,
 }
